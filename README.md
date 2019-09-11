@@ -1,2 +1,2 @@
 # TunSafe-conf
-TTunSafe-conf
+TTunSafe-CONf
